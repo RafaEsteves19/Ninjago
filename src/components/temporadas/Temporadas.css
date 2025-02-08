@@ -1,0 +1,50 @@
+.episodeos {
+    width: 140px;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .container-episodeos {
+    color: rgb(210, 210, 210);
+    display: flex;
+    align-items:flex-start ;
+  }
+
+    span {
+    font-size: 0.8rem; 
+    color: rgb(180, 180, 180);
+    margin-left: 0;
+    padding-left: 0;
+    transition: color 0.5s ease;
+  }
+
+    span:hover{
+    color: red;
+  }
+
+  .flex{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+  }
+  
+  h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    transition: color 0.5s ease;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  h5:hover {
+    color: red;
+  }
+
+.description{
+  color: rgb(210, 210, 210);
+}

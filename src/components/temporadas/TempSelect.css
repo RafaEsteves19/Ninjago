@@ -1,0 +1,9 @@
+.button-show-temp{
+    border-radius: 5px;
+    color: rgb(213, 213, 213);
+    border: 2px solid rgb(211, 211, 211);
+    background-color: transparent; 
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
